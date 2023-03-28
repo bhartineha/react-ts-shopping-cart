@@ -8,5 +8,8 @@ After cloning into local machine, install npm
 
 ### `npm run dev`
 
-Runs the app in the development mode.
+Runs the app 
 Following url you can access it Client URL : http://localhost:3000/
+
+## Live url 
+https://shop-now-09.netlify.app/
